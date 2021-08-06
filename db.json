@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "sadasdsa",
+      "lastName": "",
+      "email": "kimhockbu@hotmail.com",
+      "mobile": "0164518270",
+      "salary": "321312312"
+    },
+    {
+      "id": 5,
+      "firstName": "dasdasd",
+      "lastName": "",
+      "email": "byongliu@gmail.com",
+      "mobile": "0182924786",
+      "salary": "50000"
+    },
+    {
+      "id": 6,
+      "firstName": "byongliu@gmail.com",
+      "lastName": "",
+      "email": "byongliu@gmail.com",
+      "mobile": "0182924786",
+      "salary": "4211"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
